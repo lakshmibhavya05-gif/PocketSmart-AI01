@@ -1,0 +1,6 @@
+{
+  "name": "PocketSmart AI",
+  "description": "Your Smart Pocket. Your Smarter Future. Intelligent personal finance dashboard, expense tracking, smart budgets, savings goals, financial education, and AI financial assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
